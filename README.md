@@ -40,4 +40,4 @@ Execute o arquivo para gerar o container:
 
 [Documentação do Mongoose](https://mongoosejs.com)
 
-[Canal Youtube Henrique](https://www.youtube.com/channel/UCFxvsawe-DYiVnbyozJkH5w)
+[Canal Youtube Sou Dev](https://www.youtube.com/channel/UCFxvsawe-DYiVnbyozJkH5w)
