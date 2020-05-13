@@ -40,8 +40,9 @@ const postRoute = (app) => {
             }
 
             try {
-                const updatedPost = await UserModel.findOneAndUpdate({ _id: id }, req.body, {
+                const updatedPost = await PostModel.findOneAndUpdate({ _id: id }, req.body, {
                     new: true,
+                    
                 });
 
                 console.log(updatedPost)
