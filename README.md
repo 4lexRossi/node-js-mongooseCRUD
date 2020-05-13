@@ -10,7 +10,7 @@ Exemplo de API em Node.js usando MongoDB e Mongoose
 
 ## clone o repositório 
 
-`git clone https://github.com/4lexRossi/node-js-mongooseCRUD.git`
+`git clone https://github.com/4lexRossi/nodeJS-ExpressCRUD.git`
 
 ## Instalar dependências
 ```
